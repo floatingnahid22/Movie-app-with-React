@@ -1,5 +1,6 @@
 #Movie searching app
-link: https://harmonious-sable-792b86.netlify.app/
+link: https://bespoke-donut-fb5f9e.netlify.app/
+there had to be an issue with the API I was using since everything in my app worked but the search function. The top solution was to set up my environment in Netlify. But netlify couldn’t access it when deploying, causing the search function to no longer work. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

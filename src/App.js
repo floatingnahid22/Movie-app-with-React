@@ -24,7 +24,23 @@ const App = () => {
     <div className='app'>
       <h1>MovieZone</h1>
 
-      
+      <div className='search'>
+        <input 
+          placeholder='search for movies'
+          value="Superman"
+          onChange={() => {}}
+        />
+        <img 
+          src={SearchIcon}
+          alt="search"
+          onClick={() => {}}
+        />
+      </div>
+
+      <div className='container'>
+
+      </div>
+
     </div>
   );
 }

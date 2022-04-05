@@ -1,11 +1,16 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+
+//a244e5b6
+
+const API_URL = 'http://www.omdbapi.com?apikey=a244e5b6';
+
+const App = () => {
   return (
-    <div className="App">
+    <h1>
       Hello
-    </div>
+    </h1>
   );
 }
 
